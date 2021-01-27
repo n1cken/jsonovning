@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Erik",
+        "age" : 35,
+        "pets" : [
+            "Hamilton"
+        ]
+    },
+
+    {
+        "name" : "Gunnar",
+        "age" : 23,
+        "pets" : [
+            
+        ]
+    },
+
+    {
+        "name" : "Sten",
+        "age" : 56,
+        "pets" : [
+
+        ]
+    }
+]
+

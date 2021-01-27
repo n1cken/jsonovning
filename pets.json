@@ -1,0 +1,63 @@
+[
+    {
+        "species" : "cat",
+        "name" : "Bama",
+        "favoriteFood" : "mjukismat",
+        "favoriteToy" : "snow"
+    },
+
+    {
+        "species" : "cat",
+        "name" : "Hamilton",
+        "favoriteFood" : "godenmaten",
+        "favoriteToy" : "prasselboll"
+        
+    },
+
+    {
+        "species" : "cat",
+        "name" : "Mise",
+        "favoriteFood" : "makrill",
+        "favoriteToy" : "björkar"
+    },
+
+    
+    {
+        "species" : "cat",
+        "name" : "Putte",
+        "favoriteFood" : "kyckling",
+        "favoriteToy" : "skor"
+    },
+
+    
+    {
+        "species" : "cat",
+        "name" : "Mane",
+        "favoriteFood" : "torrfoder",
+        "favoriteToy" : "vattenpölar"
+    },
+    
+    {
+        "species" : "cat",
+        "name" : "Tomten",
+        "favoriteFood" : "ost",
+        "favoriteToy" : "klättervägg"
+    },
+    
+    {
+        "species" : "cat",
+        "name" : "Mårten",
+        "favoriteFood" : "strömming",
+        "favoriteToy" : "rivleksak"
+    },
+
+        
+    {
+        "species" : "cat",
+        "name" : "Måns",
+        "favoriteFood" : "möss",
+        "favoriteToy" : "möss"
+    }
+
+]
+
