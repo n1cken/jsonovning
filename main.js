@@ -1,13 +1,13 @@
 console.log('dw');
 
-async function readPetsJson () {
+async function readPetsJson() {
     let jsonPets = await $.getJSON("pets.json");
     console.log(jsonPets);
 
     showPetsAsHtml(jsonPets)
 }
 
-async function readPersonsJson () {
+async function readPersonsJson() {
     let jsonPersons = await $.getJSON("persons.json");
     console.log(jsonPersons);
 }
@@ -15,9 +15,9 @@ async function readPersonsJson () {
 
 
 
-function showPetsAsHtml (jsonPets) {
+function showPetsAsHtml(jsonPets) {
     for (let pet of jsonPets) {
-        let $pet = $('<div class="pets"></div>'); 
+        let $pet = $('<div class="pets"></div>');
 
         for (let key in pet) {
             let value = pet[key];
@@ -29,3 +29,6 @@ function showPetsAsHtml (jsonPets) {
 }
 
 readPetsJson();
+
+
+/* Added this comment */
